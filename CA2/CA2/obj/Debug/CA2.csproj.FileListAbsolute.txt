@@ -1,0 +1,7 @@
+C:\Users\sala9\OneDrive\SEM7\Enterprise Applications Development 1\CA2\CA2\bin\Debug\CA2.exe.config
+C:\Users\sala9\OneDrive\SEM7\Enterprise Applications Development 1\CA2\CA2\bin\Debug\CA2.exe
+C:\Users\sala9\OneDrive\SEM7\Enterprise Applications Development 1\CA2\CA2\bin\Debug\CA2.pdb
+C:\Users\sala9\OneDrive\SEM7\Enterprise Applications Development 1\CA2\CA2\obj\Debug\CA2.csproj.CoreCompileInputs.cache
+C:\Users\sala9\OneDrive\SEM7\Enterprise Applications Development 1\CA2\CA2\obj\Debug\CA2.exe
+C:\Users\sala9\OneDrive\SEM7\Enterprise Applications Development 1\CA2\CA2\obj\Debug\CA2.pdb
+C:\Users\sala9\OneDrive\SEM7\Enterprise Applications Development 1\CA2\CA2\obj\Debug\CA2.csprojAssemblyReference.cache
